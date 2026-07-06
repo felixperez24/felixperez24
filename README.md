@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/felixperez24/)
+- [Active Directory Home Lab](https://github.com/felixperez24/Active-Directory-Home-Lab)
 - [USB Forensic Investigation Lab](https://github.com/felixperez24/USB-Forensic-Investigation-)
 
 <h2>Certifications</h2>
